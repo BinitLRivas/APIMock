@@ -1,0 +1,20 @@
+{
+  "response": {
+    "form": [
+      {
+        "type": "text",
+        "label": "Nombre",
+        "id": "text-form1",
+        "required": true,
+        "placeholder": "Ingrese nombre"
+      },
+      {
+        "type": "text",
+        "label": "Apellido",
+        "id": "text-form2",
+        "required": true,
+        "placeholder": "Ingrese apellido"
+      }
+    ]
+  }
+}
